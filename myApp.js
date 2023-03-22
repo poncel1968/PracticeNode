@@ -1,11 +1,8 @@
 let express = require('express');
 let app = express();
 
-<<<<<<< HEAD
 require('dotenv').config();
-=======
 console.log("Hello World");
->>>>>>> 2b66c59113011c44e5573c6ad0722b69a68049b6
 
 console.log("Hello World");
 
